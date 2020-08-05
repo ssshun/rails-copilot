@@ -8,7 +8,7 @@
 !/tmp/.keep
 
 # Ignore master key for decrypting credentials and more.
-/config/master.key
+# /config/master.key
 
 # Ignore uploaded files in development
 /storage/*
